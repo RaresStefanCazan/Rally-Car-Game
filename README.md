@@ -38,9 +38,6 @@ This project is a rally car game developed in C++ using the WinBGIm graphics lib
 
 ## Project Structure
 
-- **main.cpp:**  
-  The primary source file containing the game logic, event handling, and graphical interface implementation.
-
 - **Drawing Functions:**  
   - `deseneazaTabla`: Draws the game board using a grid.
   - `phill` and `phill2`: Functions for filling and drawing graphical elements.
